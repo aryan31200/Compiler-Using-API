@@ -1,0 +1,12 @@
+.output {
+    background-color: black;
+    color: white;
+    min-height: 150px;
+    max-height: 200px;
+    padding: 0 5px;
+    overflow-y: auto;
+    overflow-x: auto;
+  }
+  .CodeMirror {
+    border: 1px solid lightgray;
+  }
